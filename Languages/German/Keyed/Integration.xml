@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+  <RimHUD.Integration.GetMod>Link zum Mod</RimHUD.Integration.GetMod>
+
+  <RimHUD.Integration.General>Allg. Einstellungen</RimHUD.Integration.General>
+  <RimHUD.Integration.Bubbles>Interaction Bubbles</RimHUD.Integration.Bubbles>
+
+  <RimHUD.Integration.Bubbles.Activated>Aktiviert</RimHUD.Integration.Bubbles.Activated>
+  <RimHUD.Integration.Bubbles.DoNonPlayer>Zeige für fremde Fraktionen</RimHUD.Integration.Bubbles.DoNonPlayer>
+  <RimHUD.Integration.Bubbles.DoAnimals>Zeige für Tiere</RimHUD.Integration.Bubbles.DoAnimals>
+
+  <RimHUD.Integration.Bubbles.MinScale>Mindest-Zoom</RimHUD.Integration.Bubbles.MinScale>
+  <RimHUD.Integration.Bubbles.ScaleStart>Zoom auf Startwert</RimHUD.Integration.Bubbles.ScaleStart>
+  <RimHUD.Integration.Bubbles.MaxWidth>Maximale Breite</RimHUD.Integration.Bubbles.MaxWidth>
+  <RimHUD.Integration.Bubbles.Spacing>Abstand zw. Blasen</RimHUD.Integration.Bubbles.Spacing>
+  <RimHUD.Integration.Bubbles.StartOffset>Start-Abstand</RimHUD.Integration.Bubbles.StartOffset>
+  <RimHUD.Integration.Bubbles.OffsetDirection>Abstands-Richtung</RimHUD.Integration.Bubbles.OffsetDirection>
+  <RimHUD.Integration.Bubbles.OffsetDirections>Unten|Links|Oben|Rechts</RimHUD.Integration.Bubbles.OffsetDirections>
+  <RimHUD.Integration.Bubbles.StartOpacity>Start-Deckkraft</RimHUD.Integration.Bubbles.StartOpacity>
+  <RimHUD.Integration.Bubbles.MouseOverOpacity>Maus-über Deckkraft</RimHUD.Integration.Bubbles.MouseOverOpacity>
+
+  <RimHUD.Integration.Bubbles.MinTime>Zeit zum Ausblenden</RimHUD.Integration.Bubbles.MinTime>
+  <RimHUD.Integration.Bubbles.FadeStart>Zeit vor Ausblendung</RimHUD.Integration.Bubbles.FadeStart>
+  <RimHUD.Integration.Bubbles.FadeLength>Zeit für Ausblendung</RimHUD.Integration.Bubbles.FadeLength>
+  <RimHUD.Integration.Bubbles.MaxPerPawn>Anzahl pro Figur</RimHUD.Integration.Bubbles.MaxPerPawn>
+
+  <RimHUD.Integration.Bubbles.FontSize>Schriftgröße</RimHUD.Integration.Bubbles.FontSize>
+  <RimHUD.Integration.Bubbles.PaddingX>Text Abstand X</RimHUD.Integration.Bubbles.PaddingX>
+  <RimHUD.Integration.Bubbles.PaddingY>Text Abstand Y</RimHUD.Integration.Bubbles.PaddingY>
+
+  <RimHUD.Integration.Bubbles.Colors>Farben</RimHUD.Integration.Bubbles.Colors>
+  <RimHUD.Integration.Bubbles.ForeColor>Textfarbe</RimHUD.Integration.Bubbles.ForeColor>
+  <RimHUD.Integration.Bubbles.BackColor>Hintergrundfarbe</RimHUD.Integration.Bubbles.BackColor>
+  <RimHUD.Integration.Bubbles.SelectedForeColor>Textfarbe, markiert</RimHUD.Integration.Bubbles.SelectedForeColor>
+  <RimHUD.Integration.Bubbles.SelectedBackColor>Hintergrundfarbe, markiert</RimHUD.Integration.Bubbles.SelectedBackColor>
+
+  <RimHUD.Integration.PawnRules>Pawn Rules</RimHUD.Integration.PawnRules>
+  <RimHUD.Integration.PawnRules.RuleNameFormat>Regeln: {0}</RimHUD.Integration.PawnRules.RuleNameFormat>
+  <RimHUD.Integration.PawnRules.ReplaceFoodSelector>Ersetze Essensauswahl</RimHUD.Integration.PawnRules.ReplaceFoodSelector>
+  <RimHUD.Integration.PawnRules.HideGizmo>Verstecke Gizmo</RimHUD.Integration.PawnRules.HideGizmo>
+  <RimHUD.Integration.PawnRules.HideGizmoDesc>Entfernt das Regel-Gizmo, da RimHUD einen Button dafür im Inspektions-Fenster hinzufügt.</RimHUD.Integration.PawnRules.HideGizmoDesc>
+
+</LanguageData>
